@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = franklinmont@gmail.com
+	name = franklin duque
